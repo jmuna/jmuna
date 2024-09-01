@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @uzomba_m
-- 😄 Pronouns: ... He/hiim
+- 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm smart
 
 <!---

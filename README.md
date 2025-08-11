@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jmuna
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... @uzomba_m
 - 😄 Pronouns: ... He/him
 - ⚡ Fun fact: ... I'm smart
